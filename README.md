@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ouhsaine
 - 👀 I’m interested in data driven modelling for heat transfer 
 - 🌱 I’m currently learning about system identification technics, Python.
-- 💞️ I’m looking to collaborate on this subject: "Building energy performance characterization using data driven modelling"
 - 📫 How to reach me ouhsaine.la@gmail.com
 
 <!---
